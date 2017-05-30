@@ -1,0 +1,49 @@
+.one {
+    background-color: #e1e1d0;
+    height: 12.66vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.little-box {
+    background-color: #6666ff;
+    height: 11%;
+    width: 113px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.two {
+    background-color: white;
+    height: 22.66vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.three {
+    background-color: #6666ff;
+    height: 16.66vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.four {
+    background-color: #66ff99;
+    height: 16.66vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.five {
+    background-color: #99ff66;
+    height: 16.66vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.six {
+    background-color: #e6e600;
+    height: 16.66vh;
+    width: 100%;
+    display: inline-block;
