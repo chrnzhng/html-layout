@@ -1,0 +1,49 @@
+.header {
+    background-color: #545454;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+body {
+    background-color: grey;
+}
+
+.mid {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    height: 100vh;
+
+}
+.footer {
+    background-color: black;
+    height: 35px;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    
+ 
+    
+}
+
+/*.content-left {
+    background-color: lightgrey;
+    height: 100vh;
+    width: 50px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+
+.content-right {
+    background-color: lightgrey;
+    height: 100vh;
+    width: 50px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}*/
+

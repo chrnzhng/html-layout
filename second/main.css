@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.layout {
+    height: 100vh;
+    width: 33.33%;
+    float: left;
+}
+.one {
+    background-color:#6699ff;
+  
+}
+
+.two {
+    background-color: #66ffcc;
+
+}
+
+.three {
+    background-color: #ccff99;
+ 
+ 
+}
+
+.image-holder{
+    background-color: crimson;
+    height: 25vh;
+    width: 33.33%;
+    position: absolute;
+    bottom: 0;
+}
+
+h1{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 75px;
+    padding-left: 8px;
+    font-size: 13px;
+    font-family: Arial;
+}
